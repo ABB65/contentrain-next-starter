@@ -1,22 +1,24 @@
 ---
 ID: "84b8f80da03b"
 createdAt: "2024-01-22T11:03:30.000Z"
-updatedAt: "2024-01-23T07:48:13.554Z"
-status: "draft"
+updatedAt: "2024-03-14T12:11:12.562Z"
+status: "changed"
 slug: "contentrains-brand-new-look-is-almost-here"
 title: "The Exciting Reveal: Contentrain's Brand New Look is Almost Here!"
 description: "We're buzzing with excitement and can't wait to share some thrilling news with all of you – the wait is nearly over! 🎉 Get ready to witness a fresh and revitalized Contentrain."
-category: "fdf1dd91a0b9"
 imagesrc: "public/images/1705781947129_blog cover.svg"
 imagealt: "alt image"
 author: "eeacee5d426c"
+category: "fdf1dd91a0b9"
+scheduled: false
 path: "content/blog"
 ---
 # Hello Contentrain Community!
 
 We're buzzing with excitement and can't wait to share some thrilling news with all of you – the wait is nearly over! 🎉 Get ready to witness a fresh and revitalized Contentrain. Our team has been working tirelessly behind the scenes, and we're just about ready to unveil the updated face of Contentrain.
 
-A Fresh New Website Experience
+A Fresh New Website Experience\
+ASSASASAS
 
 Our digital home, the Contentrain website, is getting a makeover too! We believe that change is not just about looking different but also about enhancing the experience for our users. The upcoming website redesign is sleek, user-friendly, and embodies the innovative spirit of Contentrain. You'll find it simpler, more intuitive, and a breeze to navigate. We're all about making your experience with us as seamless and enjoyable as possible.
 
