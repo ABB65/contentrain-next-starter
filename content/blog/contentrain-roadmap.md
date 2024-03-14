@@ -1,20 +1,21 @@
 ---
 ID: "92e8eb7c453b"
 createdAt: "2024-01-20T17:37:24.000Z"
-updatedAt: "2024-01-23T07:46:30.642Z"
-status: "draft"
+updatedAt: "2024-03-14T12:12:45.262Z"
+status: "publish"
 slug: "contentrain-roadmap"
 title: "Contentain 2.0 Roadmap"
 description: "As a bootstrapped digital product, reaching over 1000 users in a short time with the launch was great but it also brings tough liabilities for the creators of the product. Once a macro-scale product is launched and finds resonance with the users, it's crucial to be prepared for user feedback and new feature requests."
-category: "fdf1dd91a0c3"
 imagesrc: "public/images/1705782485302_cover.svg"
 imagealt: "blog image"
 author: "ad3132ae0ff8"
+category: "fdf1dd91a0c3"
+scheduled: false
 path: "content/blog"
 ---
 # Contentrain 2.0 Roadmap
 
-Private Beta version of Contentrain was released in November 2021 and underwent an effective test period by industry professionals during its first six months. This phase not only provided valuable insights, but also demonstrated that the technology was effective and useful. Since its current version was made public, Contentrain has been employed in various projects by hundreds of users.
+SASPrivate Beta version of Contentrain was released in November 2021 and underwent an effective test period by industry professionals during its first six months. This phase not only provided valuable insights, but also demonstrated that the technology was effective and useful. Since its current version was made public, Contentrain has been employed in various projects by hundreds of users.
 
 As a bootstrapped digital product, reaching over 1000 users in a short time with the launch was great but it also brings tough liabilities for the creators of the product. Once a macro-scale product is launched and finds resonance with the users, it's crucial to be prepared for user feedback and new feature requests.
 
